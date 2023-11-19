@@ -1,4 +1,4 @@
-# Bookshelf-Restful-Api
+# Bookshelf Restful API with Hapi
 
 You can access demo server with url: book.ais-aif.my.id
 
@@ -13,9 +13,13 @@ You can access demo server with url: book.ais-aif.my.id
 JSON Request Body:
 ```
 {
-    "title": String,
-    "type": String,
-    "author": String,
-    "publisher": String
+    name: String,
+    year: Int,
+    author: String,
+    summary: String,
+    publisher: String,
+    pageCount: Int,
+    readPage: Int,
+    reading: Bool
 }
 ```
