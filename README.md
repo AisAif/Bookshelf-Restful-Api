@@ -1,6 +1,6 @@
 # Bookshelf Restful API with Hapi
 
-You can access demo server with url: book.ais-aif.my.id
+You can access demo server with url: https://book.ais-aif.my.id
 
 
 ## List routes:
